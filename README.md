@@ -8,6 +8,6 @@ I specialize in:
 - Systems thinking applied to real-world constraints
 - Cross-disciplinary synthesis across design, dev, cartography, and ethics
 
-I’m expecting to contribute to open-source projects like [UnBIAS](https://github.com/UnBIASProject) and [FlexModel](https://github.com/FlexModel) to advance bias mitigation and responsible deployment in AI. (Fall 2025)
+I’m expecting to contribute to open-source projects like [Fairsense-AI](https://github.com/VectorInstitute/fair-sense-ai) and [SHAP (SHapley Additive exPlanations)](https://github.com/shap/shap) to advance bias mitigation and responsible deployment in AI. (Fall 2025)
 
 Let’s connect if you’re building toward ethical defaults, inclusive outcomes, or principled innovation.
